@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "uk.co.spaggetti.fissara",
+               "sha256_cert_fingerprints": ["E4:58:DA:2F:72:04:01:9C:9E:7D:D3:8B:51:D3:5C:7F:75:2F:04:05:D5:B0:DC:03:19:0B:12:A4:D6:C2:0C:7F"] }
+}]
